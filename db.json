@@ -1,4 +1,4 @@
-[
+{
   "books" : [
   {
     "id" :1,
@@ -21,6 +21,5 @@
     "pages": 209,
     "title": "Things Fall Apart",
     "year": 1958
-  }
-  ]
-]
+  }]
+}
