@@ -6,7 +6,7 @@
       "country": "Nigeria",
       "imageLink": "images/things-fall-apart.jpg",
       "language": "English",
-      "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+      "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
       "pages": 209,
       "title": "Things Fall Apart",
       "year" : "1958"
@@ -17,7 +17,7 @@
       "country": "Denmark",
       "imageLink": "images/fairy-tales.jpg",
       "language": "Danish",
-      "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
+      "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.",
       "pages": 784,
       "title": "Fairy tales",
       "year": "1836"
@@ -28,10 +28,10 @@
       "country": "Italy",
       "imageLink": "images/the-divine-comedy.jpg",
       "language": "Italian",
-      "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+      "link": "https://en.wikipedia.org/wiki/Divine_Comedy",
       "pages": 928,
       "title": "The Divine Comedy",
       "year": "1315"
-    },
+    }
   ]
 }
